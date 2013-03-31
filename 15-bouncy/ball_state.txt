@@ -1,0 +1,8 @@
+{
+	"position" : [0, 0],
+	"velocity" : [1, 1],
+	"columns" : 8,
+	"rows" : 7,
+	"width" : 0,
+	"height" : 0
+}
